@@ -4,7 +4,12 @@ exports[`Tests on componetn <GifGridItem /> should display the component correct
 <div
   className="card animate__animated animate__delay-2s animate__fadeInDown"
 >
-  <img />
-  <p />
+  <img
+    alt="Un titulo"
+    src="https://localhost/algo.jpg"
+  />
+  <p>
+    Un titulo
+  </p>
 </div>
 `;
