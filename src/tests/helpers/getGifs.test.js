@@ -1,4 +1,4 @@
-import getGifs from "../../helpers/getGifs";
+import { getGifs } from "../../helpers/getGifs";
 
 describe("Tests with getGifs Fetch", () => {
   test("should fetch 10 items", async () => {
